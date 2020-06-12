@@ -1,0 +1,18 @@
+html {
+	font-size: 62.5%;
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+.container {
+	width: 36rem;
+	margin: 0 auto;
+	border: 2px solid grey;
+}
